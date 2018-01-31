@@ -1,0 +1,16 @@
+<option value="Ardo-kola">Ardo-kola</option>
+<option value="Bali">Bali</option>
+<option value="Donga">Donga</option>
+<option value="Gashaka">Gashaka</option>
+<option value="Cassol">Cassol</option>
+<option value="Ibi">Ibi</option>
+<option value="Jalingo">Jalingo</option>
+<option value="Karin-Lamido">Karin-Lamido</option>
+<option value="Kurmi">Kurmi</option>
+<option value="Lau">Lau</option>
+<option value="Sardauna">Sardauna</option>
+<option value="Takum">Takum</option>
+<option value="Ussa">Ussa</option>
+<option value="Wukari">Wukari</option>
+<option value="Yorro">Yorro</option>
+<option value="Zing">Zing</option>

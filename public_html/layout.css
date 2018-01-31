@@ -1,0 +1,1016 @@
+body
+{
+    font-family: calibri;
+}
+.surround
+{      
+    overflow: hidden;
+    display: flex;
+}
+.passText
+{
+    text-align: center;
+}
+.loginRegister
+{
+    float: right;
+    width: auto;
+}
+.loginForm
+{
+    float: left;
+}
+.leftOut
+{   
+    float: left;    
+    width: 15%;
+    background-color: #F2F2F2;
+}
+.rightOut
+{    
+    float: left;    
+    width: 15%;
+    background-color: #F2F2F2;
+}
+.mainContent
+{    
+    float: left;    
+    width: 70%;
+}
+.logo
+{
+    width: 5%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.name
+{
+    width: 18%;
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.mail
+{
+    width: 2.5%;
+    float: left;
+    margin-left: 25px;
+}
+.mail:hover ~.mailAddress
+{
+    text-decoration: underline;
+}
+.mailAddress
+{
+    float: left;
+    margin-left: 3px;
+    color: black;
+}
+.mailAddress:hover
+{
+    text-decoration: underline;
+}
+.homeAbout:hover
+{
+    text-decoration: underline;
+}
+.call
+{
+    width: 2%;
+    float: left;
+    margin-left: 25px;
+}
+.call:hover ~.mailAddress
+{
+    text-decoration: underline;
+}
+.middleHeader
+{
+    clear: both;
+}
+.homeAbout
+{
+    float: right;
+    font-size: 1.2em;
+    margin-right: 80px;
+    color: black;
+}
+.buttomHeader
+{
+    clear: both;
+    margin-top: 20px;
+}
+.register
+{
+    background-color: #23B375; 
+    color: white; 
+    box-shadow: 2px 2px 2px #404040;
+    width: 110px;
+    float: right;
+}
+.register1
+{
+    background-color: #23B375; 
+    color: white; 
+    box-shadow: 2px 2px 2px #404040;
+    width: 110px;
+    float: left;
+}
+.logIn
+{
+    background-color: #23B375; 
+    color: white;     
+    width: 90px;
+    float: right;
+    margin-right: 35px;
+    box-shadow: 2px 2px 2px #404040;
+}
+.logIn:hover,.register:hover,.login1:hover,.register1:hover,.logIn1:hover
+{
+    cursor: pointer;
+    background-color: green;
+}
+.logIn1
+{
+    background-color: #23B375; 
+    color: white;     
+    width: 90px;
+    float: left;
+    margin-right: 35px;
+    box-shadow: 2px 2px 2px #404040;
+}
+.username
+{
+    float: right;
+    margin-right: 1px;
+}
+.username1
+{
+    float: left;
+    margin-right: 1px;
+}
+.loginLoad
+{
+    display: none;
+    float: left;
+    margin-right: 1px;
+}
+.mobileHeader
+{
+    display: none;
+}
+.logOut
+{
+    background-color: #E32D29;         
+    color: white; 
+    box-shadow: 2px 2px 2px #404040;
+    width: 110px;
+    float: right;
+}
+.logOut:hover
+{
+    cursor: pointer;
+    background-color: red;
+}
+.welcome
+{
+    float: right;
+}
+.forgotPass
+{
+    float: right;
+    text-decoration: none;    
+}
+.forgotPass:hover
+{
+    text-decoration: underline;
+}
+.explanation
+{
+    background-image: url(uploads/work/donebg1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;    
+    background-color:white;
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+.filter
+{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F2F2F2; 
+    overflow: auto;
+    box-shadow: 2px 2px 2px #404040;
+}
+.chooseAssetSelect
+{
+    float: left;
+    margin-left: 5px;
+}
+.chooseAsset
+{
+    float: left;
+}
+.chooseSection
+{
+    display: flex;
+    align-items: center;
+    float: left;
+}
+.categorySection
+{
+    display: flex;
+    align-items: center;
+    float: left;
+    margin-left: 5%;
+}
+.categorySection1
+{
+    display: flex;
+    align-items: center;
+    float: left;
+    margin-left: 5%;
+    margin-top: 12px;
+}
+.category
+{
+    float: left;
+}
+.categorySelect
+{
+    float: left;
+    margin-left: 5px;
+}
+.filterButtons
+{
+    clear: both;
+    margin-top: 8px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.filterAssetsButton
+{
+    background-color: #23B375; 
+    padding: 6px; 
+    margin: 5px; 
+    color: white;     
+    width: 110px;
+    box-shadow: 2px 2px 2px #404040;
+}
+.filterAssetsButton:hover
+{
+    cursor: pointer;
+    background-color: green;
+}
+.loader
+{
+    display: none;
+}
+.forgotPasswordInput
+{
+    width: 70%;
+    font-size: 1.2em;
+}
+.forgotPasswordFormStory
+{
+    color: white;
+}
+.forgotPasswordForm
+{
+    text-align: center;
+    background-color: #23B375;
+    width: 50%;
+    margin: auto;
+    box-shadow: 2px 2px 2px #404040;
+}
+.filterResetButton
+{
+    background-color: #E32D29; 
+    padding: 6px; 
+    margin: 5px; 
+    color: white; 
+    box-shadow: 2px 2px 2px #404040;
+    width: 110px;
+}
+.filterResetButton:hover,.uploadAdsButton:hover
+{
+    cursor: pointer;
+    background-color: red;
+}
+.firstSection,.secondSection,.thirdSection
+{
+    width: 100%;    
+    overflow: auto;     
+}
+.forgotPassDiv
+{
+    overflow: auto;
+}
+.sellIndiv
+{
+    width: 33%;
+    float: left;
+    text-align: center;    
+}
+.test
+{    
+    overflow: auto;    
+    display: inline-block;
+    margin: auto;
+}
+.detailsContainer
+{
+    overflow: auto;
+    display: flex;
+}
+.indivImage
+{
+    width: 100%;    
+}
+.premier
+{
+    color: #0066FF;
+}
+.imageView
+{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.rw
+{
+    display: none;
+}
+.detailsView
+{
+    width: 50%;
+    float: left;
+    background-color: #B2B2B2;    
+}
+.contactUsForm
+{
+    background-color: #23B375;
+    color: white;
+    width: 20%;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 2px 2px 2px #404040;
+}
+.centerContent
+{
+    text-align: center;
+}
+.floater
+{
+    float: left;
+}
+.floater1
+{
+    float: left;
+    margin-left: 20px;
+    line-height: 3;
+    color: green;
+}
+.dropZoneForm
+{
+    width: 80%;
+    margin: auto;
+}
+.uploadAds
+{           
+    text-align: center;
+}
+.divide4
+{
+    overflow: hidden;
+}
+.sellStuff
+{
+    overflow: auto;
+}
+.uploadAdsButton
+{
+    background-color: #E32D29; 
+    padding: 6px;     
+    margin-right: 15px;
+    color: white; 
+    box-shadow: 2px 2px 2px #404040;
+    width: 110px;
+}
+.uploadAdsButton1
+{
+    background-color: #E32D29; 
+    padding: 6px;     
+    color: white; 
+    box-shadow: 2px 2px 2px #404040;
+    width: 110px;
+}
+.deleteButtonContainer
+{
+    text-align: center;
+}
+.deleteButton
+{
+    background-color: #E32D29; 
+    padding: 6px;     
+    color: white;     
+    width: 110px;   
+    box-shadow: 2px 2px 2px #404040;
+}
+.deleteButton:hover
+{
+    cursor: pointer;
+    background-color: red;
+}
+.assets
+{    
+    overflow: auto;
+    width: 90%;
+    margin: auto;
+    background-color: #F2F2F2;
+    padding: 4px;
+     
+}
+.paginationConatainer1
+{    
+    text-align: center;    
+}
+.testimonials
+{
+    width: 90%;
+    margin: auto;    
+    text-align: center;
+    overflow: auto;    
+}
+.nameTestimony
+{
+    width: 10%;
+    float: left;
+}
+.storyTestimony
+{
+    
+    float: right;
+    width: 88%;
+    text-align: left;
+}
+.testimony
+{
+    width: 40%;
+    float: left;
+    margin-top: 15px;    
+}
+.testimony1
+{
+    width: 40%;
+    float: right;
+    margin-top: 15px;    
+}
+.testimonyTopic
+{
+    width: 20%;
+    float: left;    
+}
+.indivAsset
+{    
+    width: 33%;
+    float: left;
+    text-align: center;
+    margin-top: 25px;    
+}
+.innerIndivAsset
+{
+    width: 80%;        
+    margin: auto;
+}
+.innerIndivDetails
+{
+    width: 80%;        
+    margin: auto;
+    text-align: left;
+    background-color: white;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;      
+}
+.cover3
+{    
+    overflow: hidden;
+}
+footer
+{
+    overflow: auto;
+    height: auto;
+    background-color: #1CB775;
+}
+.footerContent
+{
+    width: 90%;
+    margin: auto;    
+}
+.fotterFeedback
+{
+    width: 20%;
+    margin-top: 10px;
+    float: left;    
+}
+.contact
+{
+    width: 30%;
+    float: left;
+    text-align: center;
+    margin-top: 10px;    
+    margin-left: 10px;
+}
+.documents
+{
+    float: left;
+    width: 20%;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 1.2em;
+}
+.indivLinks
+{
+    width: 33%;
+    float: left;    
+}
+.fbLink
+{
+    width: 60%;
+}
+.instagramLink
+{
+    width: 100%;
+}
+.twitterLink
+{
+    width: 60%;
+}
+.links
+{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+.submitFeedback
+{
+    background-color: #E32D29; 
+    padding: 6px; 
+    margin: 5px; 
+    color: white; 
+    box-shadow: 2px 2px 2px #404040;    
+    width: 110px;
+}
+.contactFooter,.footerIndivDoc,.changePass
+{
+    text-decoration: none;
+}
+.contactFooter:hover,.footerIndivDoc:hover,.changePass:hover
+{
+    text-decoration: underline;
+}
+.submitFeedback:hover,.uploadAdsButton1:hover
+{
+    background-color: red;
+    cursor: pointer;
+}
+.uploadAdsContainer
+{
+    width: 85%;
+    margin: auto;
+    overflow: auto;
+    background-color: #F2F2F2;  
+    text-align: center;
+    box-shadow: 2px 2px 2px #404040;    
+}
+.uploadDescription
+{
+    width: 80%;
+    height: 100px;
+}
+.uploadAdsIndiv
+{
+    display: flex;
+    align-items: center;
+    width: 25%;
+    float: left;
+}
+.divider4
+{
+    margin-bottom: 10px;    
+    overflow: auto;
+}
+.uploadDiscription
+{    
+    float: left;        
+}
+.uploadDiscription1
+{
+    float: right;
+}
+.uploadValue
+{    
+    float: left;    
+}
+.uploadValue1
+{
+    float: right;
+}
+.submitFeedbackContainer
+{
+    text-align: center;
+}
+.feedbackEmail
+{
+    width: 100%;
+}
+.feedbackText
+{
+    width: 100%;    
+    height: 100px;
+    line-height: normal;
+    font-size: 1em;
+}
+.mobileTestimonials
+{
+    display: none;
+}
+.changePass
+{
+    clear: both;
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.mobileFooterContents
+{
+    display: none;
+}
+.docHeader
+{
+    text-align: center;
+}
+.docText
+{
+    width: 90%;
+    font-size: 1.3em;
+    margin: auto;
+}
+.mobileDetailsView
+{
+    display: none;
+}
+.mobileLog
+{
+    background-color: #23B375; 
+    padding: 5px; 
+    margin: 5px; 
+    color: white; 
+    box-shadow: 2px 2px 2px #404040;
+    width: 100px;
+}    
+.mobileLog:hover
+{
+    cursor: pointer;
+    background-color: green;
+}
+.mobileSpan
+{
+    display: none;
+}
+@media (max-width: 1000px) 
+{
+    .leftOut,.rightOut
+    {
+        display: none;
+    }
+    .mainContent
+    {
+        width: 100%;
+    }
+}
+@media (max-width: 600px) 
+{
+    .detailsView
+    {
+        display: none;
+    }
+    .imageView
+    {
+        width: 100%;
+        float: none;
+    }
+    .detailsContainer
+    {
+        display: block;
+        width: 80%;
+        margin: auto;
+    }
+    .mobileDetailsView
+    {
+        display: block;
+        background-color: #F2F2F2;        
+    }
+    .uploadAdsContainer
+    {
+        overflow: hidden;
+    }
+    .divider4
+    {
+        margin: 0px;
+        overflow: hidden;
+    }
+    .uploadAdsIndiv
+    {
+        width: 100%;
+        clear: both;
+        margin-bottom: 1px;
+        display: flex;
+        align-items: center;        
+    }    
+    .uploadDiscription
+    {        
+        width: 40%;
+        text-align: left;
+    }
+    .uploadDiscription1
+    {
+        float: left;
+        width: 40%;
+        margin-top: 3px;
+    }
+    .uploadValue
+    {
+        width: 60%;
+    }
+    .uploadValue1
+    {
+        width: 60%;
+        float: right;
+    }
+    .uploadValues
+    {
+        width: 100% !important;
+        font-size: 1.4em;
+    }
+    .forgotPasswordInput
+    {
+        width: 80%;
+    }
+    .pcHeader
+    {
+        display: none;
+    }
+    .mobileHeader
+    {
+        display: block;
+    }
+    .mobileHeaderImage
+    {
+        width: 100%;
+    }
+    .mobilelogIn
+    {
+        width: 100%;
+        font-size: 1.2em;
+        height: 40px;
+    }
+    .mobileLoginForm
+    {
+        text-align: center;
+    }
+    
+    .mobileReg:hover
+    {
+        cursor: pointer;
+        background-color: red;
+    }
+    .mobileReg
+    {
+        background-color: #E32D29; 
+        padding: 5px; 
+        margin: 5px; 
+        color: white; 
+        box-shadow: 2px 2px 2px #404040;
+        width: 100px;
+    }
+    .forgotPass
+    {
+        float: none;
+    }
+    .forgotPassDiv
+    {
+        text-align: center;        
+    }
+    .explanation
+    {
+        display: none;
+    }
+    .chooseAssetSelect
+    {
+        float: left;
+        width: 70%;
+        font-size: 1.2em;
+        height: 40px;
+    }
+    .chooseAsset
+    {
+        float: left;
+        width: 30%;
+    }
+    .filter
+    {
+        min-width: 0;
+        width: 80%;
+        margin-top: 20px;        
+        overflow: auto;
+    }
+    .chooseSection
+    {
+        width: 100%;
+    }
+    .categorySection
+    {
+        width: 100%;
+        clear: both;
+        margin-left: 0;
+    }
+    .categorySection1
+    {
+        width: 100%;
+        clear: both;
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .category
+    {
+        float: left;
+        width: 30%;
+    }
+    .categorySelect
+    {
+        float: left;
+        width: 70%;
+        font-size: 1.2em;
+        height: 40px;
+    }
+    .filterButtons
+    {
+        width: 80%;
+    }
+    .filterAssetsButton
+    {
+        float: left;
+        margin-top: 20px;
+        width: 90%;
+    }
+    .filterResetButton
+    {
+        float: right;
+        margin-top: 20px;
+        width: 90%;
+    }
+    .sellStuff
+    {
+        display: none;
+    }
+    .indivAsset
+    {
+        width: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .innerIndivAsset
+    {
+        float: left;
+        width: 50%;        
+    }
+    .innerIndivDetails
+    {
+        float: right;
+        width: 45%;
+        height: auto;
+        font-size: 0.8em;
+    }
+    .testimonials
+    {
+        display: none;
+    }
+    .mobileTestimonials
+    {
+        display: block;
+        overflow: auto;
+    }
+    .mobileTestimonyTopic
+    {
+        text-align: center;
+    }
+    .mobileTestimony
+    {
+        margin-top: 10px;
+    }
+    footer
+    {
+        overflow: auto;
+        height: auto;
+        background-color: #1CB775;
+    }
+    .footerContent,.changePass
+    {
+        display: none;
+    }
+    .mobileFooterContents
+    {
+        display: block;
+        width: 90%;
+        margin: auto;
+    }
+    .mobileLinks
+    {
+        width: 90%;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }        
+    .mobilefbLink
+    {
+        width: 60%;
+    }
+    .mobileinstagramLink
+    {
+        width: 100%;
+    }
+    .mobiletwitterLink
+    {
+        width: 60%;
+    }
+    .mobileDocuments
+    {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;        
+    }
+    .mobileIndivDoc
+    {
+        width: 33%;
+        text-align: center;
+        float: left;        
+    }
+    .mobileIndivDocuments
+    {
+        text-decoration: none;
+    }
+    .mobileIndivDocuments:hover
+    {
+        text-decoration: underline;
+    }
+    .contactUsForm
+    {
+        width: 80%;
+    }
+    .contactUsValue
+    {
+        font-size: 1.2em;
+        width: 90%;
+        margin-bottom: 5px;
+    }
+    .uploadAdsIndiv1
+    {                
+        width: 100%;
+        text-align: left;
+    }
+    #space,#spaceType,#spaceLand,#spaceState
+    {
+        display: none !important;
+    }
+    .mobileSearchForm
+    {
+        margin-top: 30px;
+    }
+    .mobileSpan
+    {
+        display: inline-block;
+    }
+    .forgotPasswordForm
+    {
+        width: 90%;
+        margin-top: 10px;
+    }
+    .logOut
+    {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+}

@@ -1,0 +1,40 @@
+#ohsnap 
+{
+    position: fixed;
+    top: 5px;
+    right: 5px;
+    margin-left: 5px;
+    z-index: 99;
+}
+.alert 
+{
+    text-align: right;
+    margin-top: 10px;
+    padding: 15px;
+    border: 1px solid #eed3d7;
+    border-radius: 4px;
+    float: right;
+    clear: right;    
+}
+.alert-red 
+{
+    color: white;
+    background-color: #DA4453;
+}
+.alert-blue
+{
+    background-color: #4C89DA;
+    color: white
+}
+
+.alert-green
+{
+    background-color: #32BD9B;
+    color: white
+}
+
+.alert-yellow
+{
+    background-color: #F6BB43;
+    color: white
+}

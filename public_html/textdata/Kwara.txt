@@ -1,0 +1,15 @@
+<option value="Asa">Asa</option>
+<option value="Baruten">Baruten</option>
+<option value="Edu">Edu</option>
+<option value="Ekiti">Ekiti</option>
+<option value="Ifelodun">Ifelodun</option>
+<option value="Ilorin East">Ilorin East</option>
+<option value="Ilorin West">Ilorin West</option>
+<option value="Irepodun">Irepodun</option>
+<option value="Isin">Isin</option>
+<option value="Kaiama">Kaiama</option>
+<option value="Moro">Moro</option>
+<option value="Offa">Offa</option>
+<option value="Oke-Ero">Oke-Ero</option>
+<option value="Oyun">Oyun</option>
+<option value="Pategi">Pategi</option>

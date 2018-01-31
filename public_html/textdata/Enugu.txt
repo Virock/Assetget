@@ -1,0 +1,16 @@
+<option value="Enugu South">Enugu South</option>
+<option value="Igbo-Eze South">Igbo-Eze South</option>
+<option value="Enugu North">Enugu North</option>
+<option value="Nkanu">Nkanu</option>
+<option value="Udi Agwu">Udi Agwu</option>
+<option value="Oji-River">Oji-River</option>
+<option value="Ezeagu">Ezeagu</option>
+<option value="IgboEze North">IgboEze North</option>
+<option value="Isi-Uzo">Isi-Uzo</option>
+<option value="Nsukka">Nsukka</option>
+<option value="Igbo-Ekiti">Igbo-Ekiti</option>
+<option value="Uzo-Uwani">Uzo-Uwani</option>
+<option value="Enugu Eas">Enugu Eas</option>
+<option value="Aninri">Aninri</option>
+<option value="Nkanu East">Nkanu East</option>
+<option value="Udenu">Udenu</option>

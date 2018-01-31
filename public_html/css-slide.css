@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 21, 2016, 1:35:19 PM
+    Author     : Virock
+*/
+*, *:before, *:after {box-sizing: inherit;}
+/*slideshow styles*/
+
+.slideshow {
+  width: 400px;
+  overflow: hidden;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+
+.slideshow-container {
+  width: 1600px;
+  font-size: 0;
+}
+
+.slideshow-container:hover {
+  animation-play-state: paused;
+}
+
+.slideImage
+{
+  width: 400px;
+}
+.slide {
+  animation: slide 12s ease infinite;
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(0%);
+  }
+  
+  12.5% {
+    transform: translateX(0%);
+  }
+  
+  25% {
+    transform: translateX(-25%);
+  }
+  
+  37.5% {
+    transform: translateX(-25%);
+  }
+  
+  50% {
+    transform: translateX(-50%);
+  }
+  
+  62.5% {
+    transform: translateX(-50%);
+  }
+  
+  75% {
+    transform: translateX(-75%);
+  }
+  
+  87.5% {
+    transform: translateX(-75%);
+  }
+  
+  99% {
+    transform: translateX(-75%);
+  }
+  
+  100% {
+    transform: translateX(0);
+  }
+}

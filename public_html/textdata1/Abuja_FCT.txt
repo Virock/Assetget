@@ -1,0 +1,7 @@
+<option value="">Any</option>
+<option value="Gwagwalada">Gwagwalada</option>
+<option value="Kuje">Kuje</option>
+<option value="Abaji">Abaji</option>
+<option value="Abuja Municipal">Abuja Municipal</option>
+<option value="Bwari">Bwari</option>
+<option value="Kwali">Kwali</option>

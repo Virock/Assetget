@@ -1,0 +1,11 @@
+<option value="Akko">Akko</option>
+<option value="Balanga">Balanga</option>
+<option value="Billiri">Billiri</option>
+<option value="Dukku">Dukku</option>
+<option value="Kaltungo">Kaltungo</option>
+<option value="Kwami">Kwami</option>
+<option value="Shomgom">Shomgom</option>
+<option value="Funakaye">Funakaye</option>
+<option value="Gombe">Gombe</option>
+<option value="Nafada/Bajoga">Nafada/Bajoga</option>
+<option value="Yamaltu/Delta">Yamaltu/Delta</option>

@@ -1,0 +1,13 @@
+<option value="Akwanga">Akwanga</option>
+<option value="Awe">Awe</option>
+<option value="Doma">Doma</option>
+<option value="Karu">Karu</option>
+<option value="Keana">Keana</option>
+<option value="Keffi">Keffi</option>
+<option value="Kokona">Kokona</option>
+<option value="Lafia">Lafia</option>
+<option value="Nasarawa">Nasarawa</option>
+<option value="Nasarawa-Eggon">Nasarawa-Eggon</option>
+<option value="Obi">Obi</option>
+<option value="Toto">Toto</option>
+<option value="Wamba">Wamba</option>

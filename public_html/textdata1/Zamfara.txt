@@ -1,0 +1,16 @@
+<option value="">Any</option>
+<option value="Anka">Anka</option>
+<option value="Bakura">Bakura</option>
+<option value="Birnin Magaji">Birnin Magaji</option>
+<option value="Bukkuyum">Bukkuyum</option>
+<option value="Bungudu">Bungudu</option>
+<option value="Gummi">Gummi</option>
+<option value="Gusau">Gusau</option>
+<option value="Kaura">Kaura</option>
+<option value="Namoda">Namoda</option>
+<option value="Maradun">Maradun</option>
+<option value="Maru">Maru</option>
+<option value="Shinkafi">Shinkafi</option>
+<option value="Talata Mafara">Talata Mafara</option>
+<option value="Tsafe">Tsafe</option>
+<option value="Zurmi">Zurmi</option>

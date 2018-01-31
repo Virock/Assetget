@@ -1,0 +1,12 @@
+<option value=''>All</option>
+<option value='Bungalwo'>Bungalow</option>
+<option value='Duplex'>Duplex</option>
+<option value='Self-Contain'>Self-Contain</option>
+<option value='1 bedroom flat'>1 bedroom flat</option>
+<option value='2 bedroom flat'>2 bedroom flat</option>
+<option value='3 bedroom flat'>3 bedroom flat</option>
+<option value='4 bedroom flat'>4 bedroom flat</option>
+<option value='5+ bedroom flat'>5+ bedroom flat</option>
+<option value='Block of flats'>Block of flats</option>
+<option value='Luxury'>Luxury</option>
+<option value='Others'>Others</option>

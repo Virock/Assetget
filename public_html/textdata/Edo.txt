@@ -1,0 +1,15 @@
+<option value="Esan North-East">Esan North-East</option>
+<option value="Esan Central">Esan Central</option>
+<option value="Esan West">Esan West</option>
+<option value="Egor">Egor</option>
+<option value="Ukpoba">Ukpoba</option>
+<option value="Central">Central</option>
+<option value="Etsako Central">Etsako Central</option>
+<option value="Igueben">Igueben</option>
+<option value="Oredo">Oredo</option>
+<option value="Ovia SouthWest">Ovia SouthWest</option>
+<option value="Ovia South-East">Ovia South-East</option>
+<option value="Orhionwon">Orhionwon</option>
+<option value="Uhunmwonde">Uhunmwonde</option>
+<option value="Etsako East">Etsako East</option>
+<option value="Esan South-East">Esan South-East</option>
